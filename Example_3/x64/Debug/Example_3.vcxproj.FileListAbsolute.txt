@@ -1,0 +1,14 @@
+C:\Users\FoxKidsPC\Desktop\Новая папка\Example_3\Example_3\x64\Debug\Example_3.vcxproj.AssemblyReference.cache
+C:\Users\FoxKidsPC\Desktop\Новая папка\Example_3\Example_3\x64\Debug\Example_3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\FoxKidsPC\Desktop\Новая папка\Example_3\Example_3\x64\Debug\Example3.MyForm.resources
+C:\Users\FoxKidsPC\Desktop\Новая папка\Example_3\Example_3\x64\Debug\Example_3.vcxproj.GenerateResource.cache
+C:\Users\FoxKidsPC\Desktop\Новая папка\Example_3\Example_3\x64\Debug\Example3.MyForm1.resources
+C:\Users\FoxKidsPC\Desktop\Новая папка\Example_3\Example_3\x64\Debug\Example3.MyForm2.resources
+C:\Users\FoxKidsPC\Desktop\Новая папка\Example_3\Example_3\x64\Debug\Example3.MyForm3.resources
+C:\Users\FoxKidsPC\Desktop\Новая папка\Калькулятор\Example_3\x64\Debug\Example_3.vcxproj.AssemblyReference.cache
+C:\Users\FoxKidsPC\Desktop\Новая папка\Калькулятор\Example_3\x64\Debug\Example_3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\FoxKidsPC\Desktop\Новая папка\Калькулятор\Example_3\x64\Debug\Example3.MyForm.resources
+C:\Users\FoxKidsPC\Desktop\Новая папка\Калькулятор\Example_3\x64\Debug\Example3.MyForm1.resources
+C:\Users\FoxKidsPC\Desktop\Новая папка\Калькулятор\Example_3\x64\Debug\Example3.MyForm2.resources
+C:\Users\FoxKidsPC\Desktop\Новая папка\Калькулятор\Example_3\x64\Debug\Example3.MyForm3.resources
+C:\Users\FoxKidsPC\Desktop\Новая папка\Калькулятор\Example_3\x64\Debug\Example_3.vcxproj.GenerateResource.cache
